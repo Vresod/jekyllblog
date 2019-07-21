@@ -27,7 +27,9 @@
 
       <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
-        <p>{%- if site.foss }</p>
+        {%- if site.license -%}
+					</p>This site is license under the {{ site.license }} license.</p>
+				{%- endif -%}
       </div>
     </div>
 
