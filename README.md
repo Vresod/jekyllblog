@@ -1,4 +1,4 @@
 
-# vresod.github.io
+# jekyllblog
 
-My personal website. Working on making a python program to create blog posts!
+used to be my personal website. now its a ghost town
